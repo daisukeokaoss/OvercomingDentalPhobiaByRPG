@@ -3,7 +3,7 @@
 　　
   
 - We use RPG Maker framework
-- It must be Open Source(MIT Lisence)  
+- It must be Open Source(MIT License)  
 - basically free
 - Theory is Cognitive Behavioral Thrapy and Exposore
 
