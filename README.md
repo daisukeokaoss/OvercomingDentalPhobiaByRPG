@@ -1,0 +1,2 @@
+# OvercomingDentalPhobiaByRPG
+RPGで歯科恐怖症、医療恐怖症を克服するアプリを作るプロジェクトです。
