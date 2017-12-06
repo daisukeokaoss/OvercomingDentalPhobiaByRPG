@@ -1,16 +1,17 @@
 # OvercomingDentalPhobiaByRPG　　
-### RPGで歯科恐怖症、医療恐怖症を克服するアプリを作るプロジェクトです。　　
+### This project is to make app for overcoming Dental Phobia and Medical Phobia by RPG Maker
 　　
-- フレームワークはRPGツクールを使う。　　
-- オープンソース(MITライセンス）　　
-- 基本無料。　　
-- 理論は認知行動療法
+  
+- We use RPG Maker framework
+- It must be Open Source
+- basically free
+- Theory is Cognitive Behavioral Thrapy and Exposore
 
-- ストーリー１  
-ある日歯痛がする。恐怖心のゲージがあり、歯医者に近くなるほどゲージが高くなる。  
-ゲージがある閾値を越えると、歯科医にそれ以上近づくことができなくなる。  
-なので、歯医者に少しづつ近づいていく努力、つまり、「曝露療法」をしないと、歯医者に行くことができない。   
-最終的に恐怖心のゲージが閾値以下の状態で、歯医者の治療を受けることができればコンプリート  
+- Story 1
+One day, a girl feel dental pain.There is "fear Gauge" and if she approaches dentist, gauge rise.  
+if gauge value is over threashold, you cannnot approach dentist  
+so she must do effort of approaches dentist gradually,In other word, "Exposore" is needed to approach dentist  
+if she finally reaches dentist with gauge value is under threashold, it is "clear"
 
-- ストーリー２  
- ある日歯痛がする。このパターンは、患者が全く恐怖心を感じていないパターン  
+- Story 2
+One day, a girl feel dental pain. This pattern is she feels no fear at dentist
