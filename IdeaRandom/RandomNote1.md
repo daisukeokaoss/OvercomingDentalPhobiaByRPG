@@ -7,3 +7,6 @@ We can use CBT to overcome Medical or Dental Phobia especially by exposore
 
 December 7 2017  
 we can use game to make people understand ACT or Acceptance and Committment Therapy.  
+
+December 11 2017  
+The game that happily recieve dental treatment.   
