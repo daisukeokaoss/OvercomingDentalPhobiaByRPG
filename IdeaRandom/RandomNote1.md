@@ -10,3 +10,6 @@ we can use game to make people understand ACT or Acceptance and Committment Ther
 
 December 11 2017  
 The game that happily recieve dental treatment.   
+
+December 12 2017  
+The simulation that avoid Diabete and become fat by ACT or Acceptance and Commitmen Therapy  
